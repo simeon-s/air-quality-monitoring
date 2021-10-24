@@ -5,8 +5,8 @@
 
 // Setting up credentials to the local network and host
 #define HOST "air-monitoring.000webhostapp.com"  // HOST URL here
-#define WIFI_SSID "SS" // WIFI SSID here                                   
-#define WIFI_PASSWORD "A0895623567b!cd" // WIFI password here
+#define WIFI_SSID "########" // WIFI SSID here                                   
+#define WIFI_PASSWORD "########" // WIFI password here
 
 String postData;
 // Delcaring dummy values
