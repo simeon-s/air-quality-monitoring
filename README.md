@@ -1,7 +1,7 @@
 # Air Quality monitor 
 
 
-#### View live air quality data at our [website.]https://air-monitoring.000webhostapp.com/)
+#### View live air quality data at our [website] (https://air-monitoring.000webhostapp.com/).
 
 
 ### Arduino setup for ESP32
